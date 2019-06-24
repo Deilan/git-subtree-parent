@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/Deilan/git-subtree-child.git
 	branch = master
-	commit = 7f6ed3c82050c7c6fb794941457f1c9bd1c97b55
-	parent = b211a1219c70ac3ff20dc1fd515f9f358f3f5fe3
+	commit = de777542f9212f6febf9c8dfabec950b03099022
+	parent = 388186c6809b76767364eda044f849382d660778
 	method = merge
 	cmdver = 0.4.0
