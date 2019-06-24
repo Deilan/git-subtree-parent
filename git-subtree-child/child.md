@@ -1,1 +1,1 @@
-child modified from subrepo
+child modified from parent repo
